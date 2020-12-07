@@ -1,0 +1,110 @@
+[
+   {
+     "id": "ferro_1",
+     "name": "Ferro 1",
+     "score_start": -24,
+     "score_end": -17.8
+   },
+   {
+     "id": "ferro_2",
+     "name": "Ferro 2",
+     "score_start": -17.7,
+     "score_end": -11.5
+   },
+   {
+     "id": "ferro_3",
+     "name": "Ferro 3",
+     "score_start": -11.4,
+     "score_end": -5.2
+   },
+   {
+     "id": "bronzo_1",
+     "name": "Bronzo 1",
+     "score_start": -5.1,
+     "score_end": 1.1
+   },
+   {
+     "id": "bronzo_2",
+     "name": "Bronzo 2",
+     "score_start": 1.2,
+     "score_end": 7.4
+   },
+   {
+     "id": "bronzo_3",
+     "name": "Bronzo 3",
+     "score_start": 7.5,
+     "score_end": 13.7
+   },
+   {
+     "id": "argento_1",
+     "name": "Argento 1",
+     "score_start": 13.8,
+     "score_end": 20
+   },
+   {
+     "id": "argento_2",
+     "name": "Argento 2",
+     "score_start": 20.1,
+     "score_end": 26.3
+   },
+   {
+     "id": "argento_3",
+     "name": "Argento 3",
+     "score_start": 26.4,
+     "score_end": 32.6
+   },
+   {
+     "id": "oro_1",
+     "name": "Oro 1",
+     "score_start": 32.7,
+     "score_end": 38.9
+   },
+   {
+     "id": "oro_2",
+     "name": "Oro 2",
+     "score_start": 39,
+     "score_end": 45.2
+   },
+   {
+     "id": "oro_3",
+     "name": "Oro 3",
+     "score_start": 45.3,
+     "score_end": 51.5
+   },
+   {
+     "id": "platino_1",
+     "name": "Platino 1",
+     "score_start": 51.6,
+     "score_end": 57.8
+   },
+   {
+     "id": "platino_2",
+     "name": "Platino 2",
+     "score_start": 57.9,
+     "score_end": 64.1
+   },
+   {
+     "id": "platino_3",
+     "name": "Platino 3",
+     "score_start": 64.2,
+     "score_end": 70.4
+   },
+   {
+     "id": "diamante_1",
+     "name": "Diamante 1",
+     "score_start": 70.5,
+     "score_end": 76.7
+   },
+   {
+     "id": "diamante_2",
+     "name": "Diamante 2",
+     "score_start": 76.8,
+     "score_end": 83.0
+   },
+   {
+     "id": "diamante_3",
+     "name": "Diamante 3",
+     "score_start": 83.1,
+     "score_end": 90
+   }
+ ]
